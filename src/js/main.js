@@ -44,5 +44,6 @@ document.getElementById('guess_word_input').addEventListener('keydown', (e) => {
         } else {
             alert("Please enter a 5 letter word")
         }
+        document.getElementById('guess_word_input').value = ''
     }
 })
