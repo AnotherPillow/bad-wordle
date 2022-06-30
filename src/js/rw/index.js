@@ -1,3 +1,8 @@
+/*
+  THIS IS NOT MY CODE.
+  ALL CREDITS GO TO https://github.com/apostrophecms/random-words
+*/
+
 var wordList = [
     // Borrowed from xkcd password generator which borrowed it from wherever
     "ability","able","aboard","about","above","accept","accident","according",
